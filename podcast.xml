@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<lastBuildDate>Wed, 26 Nov 2008 14:53:45 +0000</lastBuildDate>
+		<title>Archfarm magazine</title>
+		<itunes:author>Non-periodical fascicles on architecture</itunes:author>
+		<link>http://www.archfarm.org</link>
+		<generator>Archfarm</generator>
+		<description>Publication focused on the analysis and diffusion of initiatives and collectives that have no space in other communication channels. Critical thinking, theoretical discourse and the latest proposals on architecture and tangent issues.
+
+Archfarm is published as a fascicle collection in pdf format which can be downloaded independently. They are distributed for free under a creative commons lincense.
+
+Its page composition allows both screen reading and efficient printing-binding, all without any concessions regarding integrity, usability and formal values. And with nearly no waste of paper.
+
+Javier Abarca, graphic designer (Madrid) and Javier Burón, architect (Dublin) form the core of Archfarm. Contributors include architects, artists, designers and thinkers.</description>
+		<itunes:subtitle>Non-periodical fascicles on architecture</itunes:subtitle>
+		<itunes:summary>Publication focused on the analysis and diffusion of initiatives and collectives that have no space in other communication channels. Critical thinking, theoretical discourse and the latest proposals on architecture and tangent issues.
+
+Archfarm is published as a fascicle collection in pdf format which can be downloaded independently. They are distributed for free under a creative commons lincense.
+
+Its page composition allows both screen reading and efficient printing-binding, all without any concessions regarding integrity, usability and formal values. And with nearly no waste of paper.
+
+Javier Abarca, graphic designer (Madrid) and Javier Burón, architect (Dublin) form the core of Archfarm. Contributors include architects, artists, designers and thinkers.</itunes:summary>
+		<language>en</language>
+		<copyright>http://creativecommons.org/licenses/by-nc-nd/2.5/deed.en</copyright>
+		<itunes:owner>
+			<itunes:name>Archfarm</itunes:name>
+			<itunes:email>info@archfarm.org</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://www.archfarm.org/fasciculos/Podcast_144.jpg</url>
+			<title>Archfarm magazine</title>
+			<link>http://www.archfarm.org</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://www.archfarm.org/fasciculos/Podcast.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Visual Arts</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Visual Arts" />
+		</itunes:category>
+		<itunes:keywords>architecture, magazine, social, design, art, technology, digital</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Archfarm 11 - Planned City Versus Spontaneous City</title>
+			<itunes:author>Belén Butragueño</itunes:author>
+			<description>Does the land belong to all of us or is it nobodys? How is a spontaneous settlement organised? Are there any rules for living together? Are there any rules at all…short of "city formation” rules?...do they relate to each other? Is there any control? Ultimately,what is a spontaneous city?</description>
+			<itunes:subtitle>One of the more significant technological advances of this century is being developed at a tiny scale, invisible to the human eye. Nanotechnology, though, can fundamentally change the ways we design, envision and build architecture.</itunes:subtitle>
+			<itunes:summary>Does the land belong to all of us or is it nobodys? How is a spontaneous settlement organised? Are there any rules for living together? Are there any rules at all…short of "city formation” rules?...do they relate to each other? Is there any control? Ultimately,what is a spontaneous city? 
+			Could we apply some of the values of the spontaneous city to newly-created, planned cities, that is, to those cities that emerge uniformly from nothingness, sometimes with no specific relationship to any adjacent metropolis, but already laid out or ruled by some type of urban planning? Could we learn something? Could these values slow down the problem of the loss of identity and alienation that is characteristic of contemporary urban planning? As it seems we cannot find the answers we can at least make the questions…</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-11-screen.pdf" length="394964" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-11-paper.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-11-screen.pdf</guid>
+			<pubDate>Wed, 26 Nov 2008 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, slums, urban, planning, essay, teorethical </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 10 - Mobile</title>
+			<itunes:author>Dominic Stevens</itunes:author>
+			<description>A lot of noise is made about the fact that half of the world’s population now lives in cities. There may well be, however, a lot left to examine about patterns of inhabitation and activity in the countryside, and it probably has a lot to do with the future and the survival of civilization. If we are to avoid the suburbanisation of rural areas then we must implement a mobile infrastructure.</description>
+			<itunes:subtitle>A lot of noise is made about the fact that half of the world’s population now lives in cities. There may well be, however, a lot left to examine about patterns of inhabitation and activity in the countryside, and it probably has a lot to do with the future and the survival of civilization. If we are to avoid the suburbanisation of rural areas then we must implement a mobile infrastructure.</itunes:subtitle>
+			<itunes:summary>A lot of noise is made about the fact that half of the world’s population now lives in cities. There may well be, however, a lot left to examine about patterns of inhabitation and activity in the countryside, and it probably has a lot to do with the future and the survival of civilization. If we are to avoid the suburbanisation of rural areas then we must implement a mobile infrastructure.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-10-screen.pdf" length="394964" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-10-paper.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-10-screen.pdf</guid>
+			<pubDate>Mon, 26 Nov 2007 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, rural, essay, teorethical </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 09 - Small is big</title>
+			<itunes:author>Peter Yeadon</itunes:author>
+			<description>One of the more significant technological advances of this century is being developed at a tiny scale, invisible to the human eye. Nanotechnology, though, can fundamentally change the ways we design, envision and build architecture.
+	Theorist and researcher Ralph Merkle wrote in the middle nineties: “Indeed, just as we named the Bronze Age, the Iron Age, and the Silicon Age after the most advanced materials that humans could make, we might call this new technological epoch we are entering the Diamond Age”</description>
+			<itunes:subtitle>One of the more significant technological advances of this century is being developed at a tiny scale, invisible to the human eye. Nanotechnology, though, can fundamentally change the ways we design, envision and build architecture.</itunes:subtitle>
+			<itunes:summary>One of the more significant technological advances of this century is being developed at a tiny scale, invisible to the human eye. Nanotechnology, though, can fundamentally change the ways we design, envision and build architecture.
+	Theorist and researcher Ralph Merkle wrote in the middle nineties: “Indeed, just as we named the Bronze Age, the Iron Age, and the Silicon Age after the most advanced materials that humans could make, we might call this new technological epoch we are entering the Diamond Age”</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-09-screen.pdf" length="394964" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-09-paper.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-09-screen.pdf</guid>
+			<pubDate>Mon, 29 Jan 2007 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, nanotechnology, essay, teorethical </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 08 - Interview with Sonia Cillari</title>
+			<itunes:author>Alfredo Puente</itunes:author>
+			<description>We all agree that digital technologies have been completely accepted in architecture. In spite of this, most people consider these as simple representative tools not related to the design process. Some people have discovered its enormous potential as a creation tool of new forms and relationships.
+The work of Sonia Cillari proposes a step forward, the development of architecture as a real-time medium, more fluid, that allows interaction with its contents. We are not talking about architecture anymore. We talk about augmented reality, hybrid spaces and interactive spaces…</description>
+			<itunes:subtitle>We all agree that digital technologies have been completely accepted in architecture. In spite of this, most people consider these as simple representative tools not related to the design process. Some people have discovered its enormous potential.</itunes:subtitle>
+			<itunes:summary>We all agree that digital technologies have been completely accepted in architecture. In spite of this, most people consider these as simple representative tools not related to the design process. Some people have discovered its enormous potential as a creation tool of new forms and relationships.
+The work of Sonia Cillari proposes a step forward, the development of architecture as a real-time medium, more fluid, that allows interaction with its contents. We are not talking about architecture anymore. We talk about augmented reality, hybrid spaces and interactive spaces…</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-08-screen.pdf" length="356291" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-08-paper.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-08-screen.pdf</guid>
+			<pubDate>Fri, 05 Jan 2007 18:48:55 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, digital, art, interview </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 07 - Hardspace, softspace: Open source architecture</title>
+			<itunes:author>Usman Haque</itunes:author>
+			<description>Our constructed environment, with its direct impact on people every day and its constant transformation through use and reuse, is a collectively designed project. It incorporates vastly different and sometimes conflicting logics. The issues arising from people’s differing perspectives and approaches will have significant consequences on the way architecture in general evolves in the twentyfirst century. Computer terminology has borrowed much from the discipline of architecture; here, we borrow back some analogies from the computer world to suggest ways that architectural evolution could occur.
+	Traditionally, architecture has been thought of as hardware: the static walls, roofs and floors that enclose us. An alternative approach is to think of architecture as software: the dynamic and ephemeral sounds, smells, temperatures even radio waves that surround us. One might also consider the social infrastructures that underpin our designed spaces. Pushing this analogy even further, we can think of architecture as a whole as an operating system, within which people create their own programmes for spatial interaction.</description>
+			<itunes:subtitle>Our constructed environment, with its direct impact on people every day and its constant transformation through use and reuse, is a collectively designed project. It incorporates vastly different and sometimes conflicting logics.</itunes:subtitle>
+			<itunes:summary>Our constructed environment, with its direct impact on people every day and its constant transformation through use and reuse, is a collectively designed project. It incorporates vastly different and sometimes conflicting logics. The issues arising from people’s differing perspectives and approaches will have significant consequences on the way architecture in general evolves in the twentyfirst century. Computer terminology has borrowed much from the discipline of architecture; here, we borrow back some analogies from the computer world to suggest ways that architectural evolution could occur.
+	Traditionally, architecture has been thought of as hardware: the static walls, roofs and floors that enclose us. An alternative approach is to think of architecture as software: the dynamic and ephemeral sounds, smells, temperatures even radio waves that surround us. One might also consider the social infrastructures that underpin our designed spaces. Pushing this analogy even further, we can think of architecture as a whole as an operating system, within which people create their own programmes for spatial interaction.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-07-screen.pdf" length="235779" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-07-paper.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-07-screen.pdf</guid>
+			<pubDate>Tue, 02 Jan 2007 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, open-source, technology, design </itunes:keywords>
+		</item>
+	</channel>
+</rss>

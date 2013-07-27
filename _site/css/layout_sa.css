@@ -1,0 +1,449 @@
+/* PROPIEDADES GENERALES */
+html{
+	margin:0px:
+	padding:0px;
+} 
+body
+{
+	background: #eee;
+	color: #000;
+	font-family: helvetica, sans-serif;
+	font-size:11px;
+	margin:0px:
+	padding:0px;
+}
+a { 
+	color: #fff;
+	text-decoration:none;
+}
+a:link { 
+	color: #ddd;
+	text-decoration:none;
+}
+a:visited { 
+	color: #ddd;
+	text-decoration:none;	
+}
+a:hover { 
+	color: #fff;
+	text-decoration:none;
+}
+p, li, .feedback
+{
+	color: #555;
+	margin: 0px;
+	padding: 0px;
+	line-height: 15px;
+	text-transform: inherit;
+}
+.columna1
+{
+	width: 180px;
+	float: left;
+	margin:0; padding:0;
+}
+.columna2
+{
+	width: 180px;
+	float: left;
+	margin: 0px 0px 0px 15px;
+	padding: 0;
+}
+.columna3{
+	width:180px;
+	float: left;
+	margin: 0px 0px 0px 15px;
+	padding: 0;
+}
+/**/
+/**/
+/**/
+/* PROPIEDADES DEL BOTON DE IDIOMA */
+/**/
+#language_bar {
+	position: absolute;
+	width:705px;
+	height:30px;
+	margin-left:-350px;
+	padding:0px;
+	padding-bottom: 40px;
+	left:50%;
+	top:0px;
+}
+#language_button {
+	position: absolute;
+	right: 0px;
+	top:7px;
+}
+/**/
+/* BOTON IDIOMA ESPANOL */
+/**/
+#language_es a {
+background: url(../imagenes/language_es.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+#language_es a:hover {
+background: url(../imagenes/language_eshover.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+/*esta propiedad de abajo se utilizar porque en explorer 6 hay un bug extra–o que parece no afectar al resto de navegadores*/
+#language_es {
+background: url(../imagenes/language_es.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+#language_es span{
+background:#000;
+visibility:hidden;
+font-size:10px;
+}
+/**/
+/* BOTON IDIOMA INGLES */
+/**/
+#language_en a {
+background: url(../imagenes/language_en.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+#language_en a:hover {
+background: url(../imagenes/language_enhover.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+/*esta propiedad de abajo se utilizar porque en explorer 6 hay un bug extra–o que parece no afectar al resto de navegadores*/
+#language_en {
+background: url(../imagenes/language_en.png) top left no-repeat;
+display:block;
+height:28px;
+width:91px;
+}
+#language_en span{
+background:#000;
+visibility:hidden;
+font-size:10px;
+}
+/**/
+/**/
+/**/
+/* POSICIONAMIENTO DE CABECERA*/
+/**/
+#menu {
+	position:fixed;
+	top:40px;
+    width:100%;
+	height:110px;
+	margin:0px;
+	padding:0px;
+	z-index:50;
+}
+#menu #cabecera{
+	background-image: url(../imagenes/cabecera_es.png);
+	background-repeat: no-repeat;
+	width:700px;
+	height:110px;
+	right: 50%;
+	margin-right: -350px;
+	position: absolute;
+    padding:0px;
+}
+#menu #cabecera_en{
+	background-image: url(../imagenes/cabecera_en.png);
+	background-repeat: no-repeat;
+	width:700px;
+	height:110px;
+	right: 50%;
+	margin-right: -350px;
+	position: absolute;
+    padding:0px;
+}
+#menu #menu_relleno {
+	background-image: url(../imagenes/cabecera_fondo.png);
+	position: absolute;
+	background-repeat: repeat;
+	width: 800px;
+	height: 110px;
+	right: 50%;
+	margin-right: 350px;
+	padding:0px;
+}
+/**/
+/* BOTON DE TITULO */
+/**/
+h1#header {
+	font: 30px Helvetica, sans-serif;
+	padding: 0px;
+	margin: 18px 0px 0px 85px;
+	width:120px;
+	height:32px;
+}
+ #header span{
+	visibility:hidden;
+}
+/**/
+/* SUBTITULO */
+/**/
+#columna1 {
+width:375px;
+float:left;
+}
+ #subheader{
+	width:370px;
+	height:24px;
+}
+ #subheader h2{
+	font: 13px Helvetica, sans-serif;
+	letter-spacing: 1px;
+	margin: 0px 0px 0px 100px;
+	padding: 2px 0px 0px 0px;
+}
+ #subheader span{
+	visibility:hidden;
+}
+/**/
+/*BOTON DE PRESENTACION*/
+/**/
+ #present_boton h3{
+	font: 13px Helvetica, sans-serif;
+	letter-spacing: 1px;
+	margin: 0px 0px 0px 100px;
+	padding: 2px 0px 0px 0px;
+	width: 100px;
+}
+ #present_boton span{
+	visibility:hidden;
+}
+ #ppresent_boton {
+	width:370px;
+	height:24px;
+}
+/**/
+/*BOTON DE BUSQUEDA*/
+/**/
+#columna2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width:320px;
+	float:right;
+}
+ #buscar{
+	width:330px;
+	height:24px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+ #buscar label {
+	font: 13px Helvetica, sans-serif;
+	letter-spacing: 1px;
+	margin: 0px 0px 0px 70px;
+	padding: 0px 0px 0px 0px;
+}
+ #buscar span{
+	visibility:hidden;
+}
+ #buscar input{
+	margin:0px 0px 0px 19px;
+	padding:1px 4px 1px 4px;
+	color:#555a5c;
+	border:1px solid #999;
+	background: #c2cace;
+	font-family: helvetica, sans-serif;
+	font-size:10px;
+	width:148px;
+
+}
+/**/
+/*BOTON DE SUSCRIPCION*/
+/**/
+ #notificacion{
+	width:330px;
+	height:24px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+ #notificacion label{
+	font: 13px Helvetica, sans-serif;
+	letter-spacing: 1px;
+	margin: 0px 0px 0px 70px;
+	padding: 0px 0px 0px 0px;
+}
+ #notificacion span{
+	visibility:hidden;
+}
+ #notificacion input{
+	margin:0px 0px 0px 14px;
+	padding:1px 4px 1px 4px;
+	color:#555a5c;
+	border:1px solid #999;
+	background: #c2cace;
+	font-family: helvetica, sans-serif;
+	font-size:10px;
+	width:113px;
+}
+/**/
+/**/
+/**/
+/* PRESENTACION 1*/
+/**/
+
+#menu1 {
+	position:fixed;
+	visibility:hidden;
+	top:170px;
+    width:100%;
+	height:350px;
+	margin:0px;
+	padding:0px;
+	z-index:50;
+}
+#menu2 {
+	position:fixed;
+	visibility:hidden;
+	top:170px;
+    width:100%;
+	height:350px;
+	margin:0px;
+	padding:0px;
+	z-index:50;
+}
+.presentacionventana{
+	background-image: url(../imagenes/presentacion.png);
+	background-repeat: no-repeat;
+	width:700px;
+	height:350px;
+	right: 50%;
+	margin-right: -350px;
+	position: absolute;
+    padding:0px;
+}
+.relleno
+{
+	background-image: url(../imagenes/cabecera_fondo.png);
+	position: absolute;
+	background-repeat: repeat;
+	width: 800px;
+	height: 350px;
+	right: 50%;
+	margin-right: 350px;
+	padding:0px;
+}
+.presentacion_txt
+{
+	column-count: 3;
+	column-gap: 22px;
+	margin: 30px 10px 20px 100px;
+	font-family: georgia, times;
+}
+.presentacion_txt h3
+{
+	color: #F4F4F4;
+	font-size: 16px;
+	line-height: 20px;
+	margin: 0px;
+	padding: 0px;
+	font-weight: lighter;
+}
+.presentacion_txt h4
+{
+	color: #F4F4F4;
+	font-size: 13px;
+	line-height: 17px;
+	margin: 0px;
+	padding: 0px;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+.presentacion_txt p
+{
+	color: #f4f4f4;
+	font-size: 13px;
+	line-height: 17px;
+	margin:0px;
+	padding:0px;
+}
+.presentacion_txt .p2
+{
+	text-indent: 15px;
+	text-transform: inherit;
+}
+.presentacion_txt .p3 { 	line-height: 47px; }
+.presentacion_txt .versalita {font-variant: small-caps;}
+.presentacion_txt a.pboton { color: #fff093; }
+.presentacion_txt a:hover.pboton  { color: #ffe64e; }
+/**/
+/* Propiedades Cuerpo */
+/**/
+#alertText {
+	padding: 10px 0px 0px 107px;
+	display: block;
+	height: 385px;
+	width: 593px;
+	font-family: garamond, georgia, times;
+	font-size: 14px;
+	line-height: 16px;
+	color: #555;
+	margin: 0px auto 0px auto;
+}
+#alertText p { color: #555; }
+#alertText a { color: #8A8A8A; }
+#alertText a:hover { color: #5D5D5D; }
+
+#contenedor {
+	margin: 170px 0px 0px 0px;
+}
+/**/
+/* representacion basica fasciculos */
+/**/
+/* separacion entre fasciculos */
+.fasciculo
+{
+	margin: 10px 0px 70px 0px;
+}
+.titulo_fasciculo{
+	display:none;
+}
+.contenido_fasciculo{
+	display:none;
+}
+/**/
+/* link a fasciculo en papel para castellano */
+/**/
+.fasciculoes_papel a { 
+background: url(../imagenes/link_es.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoes_papel a:hover { 
+background: url(../imagenes/link_eshover.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoes_papel { 
+background: url(../imagenes/link_es.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoes_papel span{ 
+background:#000; visibility:hidden; font-size:20px; 
+} 
+/**/
+/* link a fasciculo en papel para ingles */
+/**/
+.fasciculoen_papel a { 
+background: url(../imagenes/link_en.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoen_papel a:hover { 
+background: url(../imagenes/link_enhover.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoen_papel { 
+background: url(../imagenes/link_en.gif) top left no-repeat; display:block; height:80px; width:275px; position: absolute; left:50%; margin-left:-275px; 
+} 
+.fasciculoen_papel span{ 
+background:#000; visibility:hidden; font-size:20px; 
+}
+/**/
+/* Comun a ambos */
+/**/
+.fasciculo_papel_relleno_izq { 
+display: block; background-image: url(../imagenes/linea.gif); background-repeat: repeat-x; background-position: left; height:30px; width:50%; position: absolute; left:50%;
+}

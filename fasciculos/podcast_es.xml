@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<lastBuildDate>Wed, 26 Nov 2008 14:53:45 +0000</lastBuildDate>
+		<title>Archfarm magazine</title>
+		<itunes:author>Fascículos Aperiódicos de Arquitectura</itunes:author>
+		<link>http://www.archfarm.org/es</link>
+		<generator>Archfarm</generator>
+		<description>Publicación centrada en el análisis y difusión de iniciativas y colectivos que no tienen cabida en otros canales de comunicación. Un lugar para el pensamiento y la crítica, los discursos teóricos y las últimas propuestas en arquitectura y temas tangentes.
+		
+Archfarm se publica como colección de fascículos en formato pdf que pueden ser descargados de manera independiente. Se distribuyen gratuitamente bajo licencia creative commons.
+
+Su composición de página permite tanto la lectura en pantalla como su impresión y encuadernación, todo ello sin concesiones en cuanto integridad, usabilidad y valores formales.
+Y sin apenas tirar papel.
+
+Javier Abarca, diseñador gráfico (Madrid) y Javier Burón, arquitecto (Dublín) constituyen el núcleo de Archfarm. Colaboran arquitectos, artistas, diseñadores y pensadores.</description>
+		<itunes:subtitle>Fascículos Aperiódicos de Arquitectura</itunes:subtitle>
+		<itunes:summary>Publicación centrada en el análisis y difusión de iniciativas y colectivos que no tienen cabida en otros canales de comunicación. Un lugar para el pensamiento y la crítica, los discursos teóricos y las últimas propuestas en arquitectura y temas tangentes.
+		
+Archfarm se publica como colección de fascículos en formato pdf que pueden ser descargados de manera independiente. Se distribuyen gratuitamente bajo licencia creative commons.
+
+Su composición de página permite tanto la lectura en pantalla como su impresión y encuadernación, todo ello sin concesiones en cuanto integridad, usabilidad y valores formales.
+Y sin apenas tirar papel.
+
+Javier Abarca, diseñador gráfico (Madrid) y Javier Burón, arquitecto (Dublín) constituyen el núcleo de Archfarm. Colaboran arquitectos, artistas, diseñadores y pensadores.</itunes:summary>
+		<language>es</language>
+		<copyright>http://creativecommons.org/licenses/by-nc-nd/2.5/deed.en</copyright>
+		<itunes:owner>
+			<itunes:name>Archfarm</itunes:name>
+			<itunes:email>info@archfarm.org</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>http://www.archfarm.org/fasciculos/Podcast_144.jpg</url>
+			<title>Archfarm magazine</title>
+			<link>http://www.archfarm.org/es</link>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<itunes:image href="http://www.archfarm.org/fasciculos/Podcast.jpg" />
+		<category>Design</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Design" />
+		</itunes:category>
+		<category>Visual Arts</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Visual Arts" />
+		</itunes:category>
+		<itunes:keywords>arquitectura, magazine, social, diseño, arte, ciencia, tecnología, digital</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Archfarm 13 - Arquitectura es la sociedad representada</title>
+			<itunes:author>Andrés Jaque y Pablo Hurlé</itunes:author>
+			<description>Preguntarse si una mujer educada en Madrás, budista y tetrapléjica está tan ‘representada’ por los veinticuatro peldaños que dan acceso a Saint Paul’s Cathedral como el Príncipe Charles –miembro de la iglesia anglicana, amante de los órdenes clásicos y jugador de polo en sus ratos libres–, es suficiente para hacerse una idea de la dimensión política de las decisiones arquitectónicas.
+			De igual manera que los pesados llaveros de los hoteles “representan” (como un diputado representa a sus votantes) simultáneamente el interés del director del hotel por que las llaves no se pierdan y el del huésped por salir rápidamente del hotel sin cargas molestas en sus bolsillos; los objetos arquitectónicos pueden ser “parlamentos” que, sin necesidad de consensuar los criterios divergentes de los diferentes agentes a los que afectan, creen marcos en los que la convivencia de sensibilidades e intereses en disputa pueda ser duradera y no demasiado violenta.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm12es.png" /></p>
+			</description> 
+			<itunes:subtitle>Preguntarse si una mujer educada en Madrás, budista y tetrapléjica está tan ‘representada’ por los veinticuatro peldaños que dan acceso a Saint Paul’s Cathedral como el Príncipe Charles –miembro de la iglesia anglicana, amante de los órdenes clásicos y jugador de polo en sus ratos libres–, es suficiente para hacerse una idea de la dimensión política de las decisiones arquitectónicas.
+			De igual manera que los pesados llaveros de los hoteles “representan” (como un diputado representa a sus votantes) simultáneamente el interés del director del hotel por que las llaves no se pierdan y el del huésped por salir rápidamente del hotel sin cargas molestas en sus bolsillos; los objetos arquitectónicos pueden ser “parlamentos” que, sin necesidad de consensuar los criterios divergentes de los diferentes agentes a los que afectan, creen marcos en los que la convivencia de sensibilidades e intereses en disputa pueda ser duradera y no demasiado violenta.</itunes:subtitle>
+			<itunes:summary>Preguntarse si una mujer educada en Madrás, budista y tetrapléjica está tan ‘representada’ por los veinticuatro peldaños que dan acceso a Saint Paul’s Cathedral como el Príncipe Charles –miembro de la iglesia anglicana, amante de los órdenes clásicos y jugador de polo en sus ratos libres–, es suficiente para hacerse una idea de la dimensión política de las decisiones arquitectónicas.
+			De igual manera que los pesados llaveros de los hoteles “representan” (como un diputado representa a sus votantes) simultáneamente el interés del director del hotel por que las llaves no se pierdan y el del huésped por salir rápidamente del hotel sin cargas molestas en sus bolsillos; los objetos arquitectónicos pueden ser “parlamentos” que, sin necesidad de consensuar los criterios divergentes de los diferentes agentes a los que afectan, creen marcos en los que la convivencia de sensibilidades e intereses en disputa pueda ser duradera y no demasiado violenta.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-13-pantalla.pdf" length="1088146" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-13-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-13-pantalla.pdf</guid>
+			<pubDate>December 3, 2009 00:00:00 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, política, representación, gobierno, urbanismo, ensayo, teórico </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 12 - Estimular los sentidos en el ámbito público</title>
+			<itunes:author>Iain Borden</itunes:author>
+			<description>Una de las tendencias principales en el espacio público ha sido la de minimizar el riesgo proporcionando miniciudades en las cuales el riesgo ha sido eliminado. Son lugares seguros y certeros.
+Sin embargo, lo que nos hace disfrutar de los espacios públicos es el factor sorpresa, el hecho de tener que descubrir estos espacios y la gente que hay en ellos. Siguiendo esta línea se tiende a fomentar el riesgo, a crear espacios de intertidumbre. De este modo existe una tensión esencial en el espacio público: por un lado eliminar el riesgo, y al mismo tiempo el peligro, y por otro tolerar e incluso fomentar el riesgo, para así disfrutar de lo inesperado de las ciudades en las que vivimos y de sus ciudadanos.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm12es.png" /></p>
+			</description> 
+			<itunes:subtitle>Una de las tendencias principales en el espacio público ha sido la de minimizar el riesgo proporcionando miniciudades en las cuales el riesgo ha sido eliminado. Son lugares seguros y certeros.
+Sin embargo, lo que nos hace disfrutar de los espacios públicos es el factor sorpresa, el hecho de tener que descubrir estos espacios y la gente que hay en ellos. Siguiendo esta línea se tiende a fomentar el riesgo, a crear espacios de intertidumbre. De este modo existe una tensión esencial en el espacio público: por un lado eliminar el riesgo, y al mismo tiempo el peligro, y por otro tolerar e incluso fomentar el riesgo, para así disfrutar de lo inesperado de las ciudades en las que vivimos y de sus ciudadanos.</itunes:subtitle>
+			<itunes:summary>Una de las tendencias principales en el espacio público ha sido la de minimizar el riesgo proporcionando miniciudades en las cuales el riesgo ha sido eliminado. Son lugares seguros y certeros.
+Sin embargo, lo que nos hace disfrutar de los espacios públicos es el factor sorpresa, el hecho de tener que descubrir estos espacios y la gente que hay en ellos. Siguiendo esta línea se tiende a fomentar el riesgo, a crear espacios de intertidumbre. De este modo existe una tensión esencial en el espacio público: por un lado eliminar el riesgo, y al mismo tiempo el peligro, y por otro tolerar e incluso fomentar el riesgo, para así disfrutar de lo inesperado de las ciudades en las que vivimos y de sus ciudadanos.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-12-pantalla.pdf" length="1088146" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-12-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-12-pantalla.pdf</guid>
+			<pubDate>June 3, 2009 00:00:00 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, skateboarding, monopatín, patinete, skate, urbanismo, ensayo, teórico </itunes:keywords>
+		</item>
+
+		<item>
+			<title>Archfarm 11 - Ciudad Normada Versus Ciudad Espontánea</title>
+			<itunes:author>Belén Butragueño</itunes:author>
+			<description>¿Es el suelo público de todos o de nadie? ¿Cómo se organiza un asentamiento espontáneo? ¿Se generan reglas de convivencia?, ¿existen reglas…unas ciertas normas de “creación de ciudad”?... ¿Se asocian?, ¿existen líderes?...En definitiva, ¿qué es una “ciudad espontánea”? 
+¿Serían aplicables algunos de sus valores a las “ciudades normadas” de nueva creación, es decir: a aquellas ciudades que igualmente surgen de la nada, a veces sin relación específica con ninguna metrópoli cercana, pero que vienen avaladas por cierta normativa o plan? ¿Aprenderíamos algo? 
+¿Podría dicho aprendizaje ralentizar el problema de la pérdida identitaria y enajenación de la que adolece el urbanismo actual?Si no podemos encontrar las respuestas, podemos al menos plantearnos las preguntas…
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm11es.png" /></p>
+			</description> 
+			<itunes:subtitle>¿Es el suelo público de todos o de nadie? ¿Cómo se organiza un asentamiento espontáneo? ¿Se generan reglas de convivencia?, ¿existen reglas…unas ciertas normas de “creación de ciudad”?... ¿Se asocian?, ¿existen líderes?...En definitiva, ¿qué es una “ciudad espontánea”? 
+¿Serían aplicables algunos de sus valores a las “ciudades normadas” de nueva creación, es decir: a aquellas ciudades que igualmente surgen de la nada, a veces sin relación específica con ninguna metrópoli cercana, pero que vienen avaladas por cierta normativa o plan? ¿Aprenderíamos algo? 
+¿Podría dicho aprendizaje ralentizar el problema de la pérdida identitaria y enajenación de la que adolece el urbanismo actual?Si no podemos encontrar las respuestas, podemos al menos plantearnos las preguntas…</itunes:subtitle>
+			<itunes:summary>¿Es el suelo público de todos o de nadie? ¿Cómo se organiza un asentamiento espontáneo? ¿Se generan reglas de convivencia?, ¿existen reglas…unas ciertas normas de “creación de ciudad”?... ¿Se asocian?, ¿existen líderes?...En definitiva, ¿qué es una “ciudad espontánea”? 
+¿Serían aplicables algunos de sus valores a las “ciudades normadas” de nueva creación, es decir: a aquellas ciudades que igualmente surgen de la nada, a veces sin relación específica con ninguna metrópoli cercana, pero que vienen avaladas por cierta normativa o plan? ¿Aprenderíamos algo? 
+¿Podría dicho aprendizaje ralentizar el problema de la pérdida identitaria y enajenación de la que adolece el urbanismo actual?Si no podemos encontrar las respuestas, podemos al menos plantearnos las preguntas…</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-11-pantalla.pdf" length="1088146" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-11-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-11-pantalla.pdf</guid>
+			<pubDate>Wed, 26 Nov 2008 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, barrios marginales, urbanismo, ensayo, teórico </itunes:keywords>
+		</item>
+		<item>
+			<title>Archfarm 10 - Móvil</title>
+			<itunes:author>Dominic Stevens</itunes:author>
+			<description>Se habla mucho del hecho de que ya la mitad de la población de la tierra vive en ciudades. Sin embargo puede quedar aún mucho por analizar sobre modelos de población y actividad en el campo, algo que probablemente tenga mucho que ver con el futuro y la supervivencia de la civilización. Si se quiere evitar la suburbanización de las áreas rurales es necesario implementar una infraestructura móvil.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm10es.png" /></p>
+			</description>
+			<itunes:subtitle>Se habla mucho del hecho de que ya la mitad de la población de la tierra vive en ciudades. Sin embargo puede quedar aún mucho por analizar sobre modelos de población y actividad en el campo, algo que probablemente tenga mucho que ver con el futuro y la supervivencia de la civilización. Si se quiere evitar la suburbanización de las áreas rurales es necesario implementar una infraestructura móvil.</itunes:subtitle>
+			<itunes:summary>Se habla mucho del hecho de que ya la mitad de la población de la tierra vive en ciudades. Sin embargo puede quedar aún mucho por analizar sobre modelos de población y actividad en el campo, algo que probablemente tenga mucho que ver con el futuro y la supervivencia de la civilización. Si se quiere evitar la suburbanización de las áreas rurales es necesario implementar una infraestructura móvil.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-10-pantalla.pdf" length="404000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-10-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-10-pantalla.pdf</guid>
+			<pubDate>Mon, 26 Nov 2007 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, rural, ensayo, teórico </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 09 - Pequeño es grande: El amanecer de una nueva era</title>
+			<itunes:author>Peter Yeadon</itunes:author>
+			<description>Uno de los avances tecnólogicos más importantes de este siglo se está desarrollando a una escala diminuta, invisible para el ojo humano; sin embargo, la nanotecnología podría cambiar radicalmente la manera en que diseñamos, imaginamos y construimos arquitectura.
+Ralph Merkle, teórico e investigador, proclamaba a mediados de los noventa: “Así como nombramos la Edad del Bronce, la Edad del Hierro y la Edad del Sicilio por el material más tecnológicamente avanzado que se podía elaborar, esta nueva era tecnológica en la que estamos entrando podría ser llamada la Edad del Diamante”.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm09es.png" /></p>
+			</description>
+			<itunes:subtitle>Uno de los avances tecnólogicos más importantes de este siglo se está desarrollando a una escala diminuta, invisible para el ojo humano; sin embargo, la nanotecnología podría cambiar radicalmente la manera en que diseñamos, imaginamos y construimos arquitectura.
+Ralph Merkle, teórico e investigador, proclamaba a mediados de los noventa: “Así como nombramos la Edad del Bronce, la Edad del Hierro y la Edad del Sicilio por el material más tecnológicamente avanzado que se podía elaborar, esta nueva era tecnológica en la que estamos entrando podría ser llamada la Edad del Diamante”.</itunes:subtitle>
+			<itunes:summary>Uno de los avances tecnólogicos más importantes de este siglo se está desarrollando a una escala diminuta, invisible para el ojo humano; sin embargo, la nanotecnología podría cambiar radicalmente la manera en que diseñamos, imaginamos y construimos arquitectura.
+Ralph Merkle, teórico e investigador, proclamaba a mediados de los noventa: “Así como nombramos la Edad del Bronce, la Edad del Hierro y la Edad del Sicilio por el material más tecnológicamente avanzado que se podía elaborar, esta nueva era tecnológica en la que estamos entrando podría ser llamada la Edad del Diamante”.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-09-pantalla.pdf" length="868000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-09-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-09-pantalla.pdf</guid>
+			<pubDate>Mon, 29 Jan 2007 18:48:49 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, nanotecnología, ensayo, teórico </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 08 - Entrevista con Sonia Cillari</title>
+			<itunes:author>Alfredo Puente</itunes:author>
+			<description>Todos estamos de acuerdo en que las tecnologías digitales han sido plenamente aceptadas en la arquitectura. Pese a ello, la gran mayoría todavía las consideran como meras herramientas de representación, desvinculadas de los procesos de diseño. 
+Algunos han descubierto su enorme potencial como herramienta de generación de nuevas formas y relaciones. 
+El trabajo de Sonia Cillari plantea un paso más, el desarrollo de la arquitectura como un medio en tiempo real, más fluido, que permite interactuar sus contenidos. Ya no hablamos de arquitectura, hablamos de realidad aumentada, espacios híbridos y espacios interactivos.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm08es.png" /></p>
+			</description>
+			<itunes:subtitle>Todos estamos de acuerdo en que las tecnologías digitales han sido plenamente aceptadas en la arquitectura. Pese a ello, la gran mayoría todavía las consideran como meras herramientas de representación, desvinculadas de los procesos de diseño. 
+Algunos han descubierto su enorme potencial como herramienta de generación de nuevas formas y relaciones. 
+El trabajo de Sonia Cillari plantea un paso más, el desarrollo de la arquitectura como un medio en tiempo real, más fluido, que permite interactuar sus contenidos. Ya no hablamos de arquitectura, hablamos de realidad aumentada, espacios híbridos y espacios interactivos.</itunes:subtitle>
+			<itunes:summary>Todos estamos de acuerdo en que las tecnologías digitales han sido plenamente aceptadas en la arquitectura. Pese a ello, la gran mayoría todavía las consideran como meras herramientas de representación, desvinculadas de los procesos de diseño. 
+Algunos han descubierto su enorme potencial como herramienta de generación de nuevas formas y relaciones. 
+El trabajo de Sonia Cillari plantea un paso más, el desarrollo de la arquitectura como un medio en tiempo real, más fluido, que permite interactuar sus contenidos. Ya no hablamos de arquitectura, hablamos de realidad aumentada, espacios híbridos y espacios interactivos.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-08-pantalla.pdf" length="1900000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-08-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-08-pantalla.pdf</guid>
+			<pubDate>Fri, 05 Mar 2006 18:48:55 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, digital, arte, entrevista </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 07 - Hardspace, softspace: arquitectura de código abierto</title>
+			<itunes:author>Usman Haque</itunes:author>
+			<description>Nuestro entorno  construido, con su  impacto diario en la gente y su constante transformación con  el uso y re-uso, es un proyecto diseñado  colectivamente que  incorpora considerables diferencias y  algunas veces lógicas contrapuestas. Las cuestiones que surgen de las diferentes perspectivas y  acercamientos de la gente darán consecuencias significativas en la manera en que  la arquitectura en  general va a evolucionar en el siglo XXI. La terminología  informática ha tomado mucho prestado de la disciplina arquitectónica; aquí, vamos a recoger algunas analogías desde el mundo informático para sugerir caminos hacia los que la arquitectura puede evolucionar.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm07es.png" /></p>
+			</description>
+			<itunes:subtitle>Nuestro entorno  construido, con su  impacto diario en la gente y su constante transformación con  el uso y re-uso, es un proyecto diseñado  colectivamente que  incorpora considerables diferencias y  algunas veces lógicas contrapuestas. Las cuestiones que surgen de las diferentes perspectivas y  acercamientos de la gente darán consecuencias significativas en la manera en que  la arquitectura en  general va a evolucionar en el siglo XXI. La terminología  informática ha tomado mucho prestado de la disciplina arquitectónica; aquí, vamos a recoger algunas analogías desde el mundo informático para sugerir caminos hacia los que la arquitectura puede evolucionar.</itunes:subtitle>
+			<itunes:summary>Nuestro entorno  construido, con su  impacto diario en la gente y su constante transformación con  el uso y re-uso, es un proyecto diseñado  colectivamente que  incorpora considerables diferencias y  algunas veces lógicas contrapuestas. Las cuestiones que surgen de las diferentes perspectivas y  acercamientos de la gente darán consecuencias significativas en la manera en que  la arquitectura en  general va a evolucionar en el siglo XXI. La terminología  informática ha tomado mucho prestado de la disciplina arquitectónica; aquí, vamos a recoger algunas analogías desde el mundo informático para sugerir caminos hacia los que la arquitectura puede evolucionar.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-07-pantalla.pdf" length="1500000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-07-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-07-pantalla.pdf</guid>
+			<pubDate>Tue, 02 Jul 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, código abierto, tecnología, diseño </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 06 - Recetas Urbanas de Santiago Cirugeda</title>
+			<itunes:author>Agustín Pérez Torres</itunes:author>
+			<description>Para la mayoría de los arquitectos contemporáneos, la necesidad de disponer de un postulado teórico sobre el que cimentar su obra parece ser requisito fundamental a la hora posicionarse en el mundo actual de la arquitectura (y de paso, proporcionar una base para posteriores investigaciones y relaciones con o contra sus contemporáneos). Una manera de guiar un camino (más que marcar unos límites), de enlazar posiciones o simplemente de buscar una identidad. Y el caso que nos ocupa no es una excepción.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm06es.png" /></p>
+			</description>
+			<itunes:subtitle>Para la mayoría de los arquitectos contemporáneos, la necesidad de disponer de un postulado teórico sobre el que cimentar su obra parece ser requisito fundamental a la hora posicionarse en el mundo actual de la arquitectura (y de paso, proporcionar una base para posteriores investigaciones y relaciones con o contra sus contemporáneos). Una manera de guiar un camino (más que marcar unos límites), de enlazar posiciones o simplemente de buscar una identidad. Y el caso que nos ocupa no es una excepción.</itunes:subtitle>
+			<itunes:summary>Para la mayoría de los arquitectos contemporáneos, la necesidad de disponer de un postulado teórico sobre el que cimentar su obra parece ser requisito fundamental a la hora posicionarse en el mundo actual de la arquitectura (y de paso, proporcionar una base para posteriores investigaciones y relaciones con o contra sus contemporáneos). Una manera de guiar un camino (más que marcar unos límites), de enlazar posiciones o simplemente de buscar una identidad. Y el caso que nos ocupa no es una excepción.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-06-pantalla.pdf" length="748000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-06-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-06-pantalla.pdf</guid>
+			<pubDate>Tue, 08 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, social, normativa, diseño </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 05 - Miradas tangentes: MMMM... y Funky Projects</title>
+			<itunes:author>Marc Camallonga</itunes:author>
+			<description>«[…] la intención es estimular. Incentivar una búsqueda. Crear un campo de visión más amplio. Más tolerante. Aportar energía. Accionar un interruptor.»
+Esta declaración de intenciones pertenece a mmmm…, pero bien podría haber salido de los miembros de Funky Projects. Hablar de estos dos colectivos, de Madrid y Bilbao respectivamente, es hablar de ideas, provocación, personas, energía. De dos colectivos que intentan despertar a la sociedad a través de sus acciones y trabajos.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm05es.png" /></p>
+			</description>
+			<itunes:subtitle>«[…] la intención es estimular. Incentivar una búsqueda. Crear un campo de visión más amplio. Más tolerante. Aportar energía. Accionar un interruptor.»
+Esta declaración de intenciones pertenece a mmmm…, pero bien podría haber salido de los miembros de Funky Projects. Hablar de estos dos colectivos, de Madrid y Bilbao respectivamente, es hablar de ideas, provocación, personas, energía. De dos colectivos que intentan despertar a la sociedad a través de sus acciones y trabajos.</itunes:subtitle>
+			<itunes:summary>«[…] la intención es estimular. Incentivar una búsqueda. Crear un campo de visión más amplio. Más tolerante. Aportar energía. Accionar un interruptor.»
+Esta declaración de intenciones pertenece a mmmm…, pero bien podría haber salido de los miembros de Funky Projects. Hablar de estos dos colectivos, de Madrid y Bilbao respectivamente, es hablar de ideas, provocación, personas, energía. De dos colectivos que intentan despertar a la sociedad a través de sus acciones y trabajos.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-05-pantalla.pdf" length="528000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-05-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-05-pantalla.pdf</guid>
+			<pubDate>Tue, 07 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, acción social, diseño </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 04 - [r]activa04</title>
+			<itunes:author>Michael Moradiellos</itunes:author>
+			<description>Los talleres [R]activa04, que tuvieron lugar en las calles de Alcalá de Henares en el mes de septiembre de 2004 confrontando a los estudiantes de la Escuela de Arquitectura de la Universidad de Alcalá con los propios vecinos de los lugares de intervención, han tenido dos propósitos.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm04es.png" /></p>
+			</description>
+			<itunes:subtitle>Los talleres [R]activa04, que tuvieron lugar en las calles de Alcalá de Henares en el mes de septiembre de 2004 confrontando a los estudiantes de la Escuela de Arquitectura de la Universidad de Alcalá con los propios vecinos de los lugares de intervención, han tenido dos propósitos</itunes:subtitle>
+			<itunes:summary>Los talleres [R]activa04, que tuvieron lugar en las calles de Alcalá de Henares en el mes de septiembre de 2004 confrontando a los estudiantes de la Escuela de Arquitectura de la Universidad de Alcalá con los propios vecinos de los lugares de intervención, han tenido dos propósitos</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-04-pantalla.pdf" length="912000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-04-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-04-pantalla.pdf</guid>
+			<pubDate>Tue, 06 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>architecture, acción social, diseño </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 03 - Espacio, palabra y percepción sensorial</title>
+			<itunes:author>Santiago Ortiz</itunes:author>
+			<description>Luego de unos cuantos años de experiencia creando espacios digitales visuales, narrativos y sonoros, he venido, poco a poco, buscando formas de integrar nuevas estrategias y métodos de producción, y otros contextos de exposición. Concreta-mente, he querido comunicar el plasma digital con el espacio real. Utilizo la palabra plasma porque lo digital no configura por sí mismo ningún espacio sino, más bien, la posibilidad de recrear una infinidad de espacios, que se sustentan a su vez en sendas metáforas.
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm03es.png" /></p>
+			</description>
+			<itunes:subtitle>Luego de unos cuantos años de experiencia creando espacios digitales visuales, narrativos y sonoros, he venido, poco a poco, buscando formas de integrar nuevas estrategias y métodos de producción, y otros contextos de exposición. Concreta-mente, he querido comunicar el plasma digital con el espacio real. Utilizo la palabra plasma porque lo digital no configura por sí mismo ningún espacio sino, más bien, la posibilidad de recrear una infinidad de espacios, que se sustentan a su vez en sendas metáforas.</itunes:subtitle>
+			<itunes:summary>Luego de unos cuantos años de experiencia creando espacios digitales visuales, narrativos y sonoros, he venido, poco a poco, buscando formas de integrar nuevas estrategias y métodos de producción, y otros contextos de exposición. Concreta-mente, he querido comunicar el plasma digital con el espacio real. Utilizo la palabra plasma porque lo digital no configura por sí mismo ningún espacio sino, más bien, la posibilidad de recrear una infinidad de espacios, que se sustentan a su vez en sendas metáforas.</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-03-pantalla.pdf" length="2100000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-03-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-03-pantalla.pdf</guid>
+			<pubDate>Tue, 05 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arte, digital, narrativa visual, tecnología, diseño, ensayo</itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 02 - Pablo Miranda, arquitectura algorítmica</title>
+			<itunes:author>Rabindranath Andújar</itunes:author>
+			<description>Diseñar es, casi con toda seguridad, una de las cosas más fascinantes que las personas podemos hacer con nuestra inteligencia. Existen, desde luego, muchas otras (elegir qué veremos en la tele, resolver problemas de física cuántica, comprar un abrigo…), pero concentrar todos nuestros esfuerzos en torno a una solución para un problema (o varios a la vez) y que, además, ésta resulte bella y armónica, es decir estética, y sea a ser posible la más económica, es lo que a los arquitectos más parece admirar de nuestro trabajo. Y es su razón de ser
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm02es.png" /></p>
+			</description>
+			<itunes:subtitle>Diseñar es, casi con toda seguridad, una de las cosas más fascinantes que las personas podemos hacer con nuestra inteligencia. Existen, desde luego, muchas otras (elegir qué veremos en la tele, resolver problemas de física cuántica, comprar un abrigo…), pero concentrar todos nuestros esfuerzos en torno a una solución para un problema (o varios a la vez) y que, además, ésta resulte bella y armónica, es decir estética, y sea a ser posible la más económica, es lo que a los arquitectos más parece admirar de nuestro trabajo. Y es su razón de ser</itunes:subtitle>
+			<itunes:summary>Diseñar es, casi con toda seguridad, una de las cosas más fascinantes que las personas podemos hacer con nuestra inteligencia. Existen, desde luego, muchas otras (elegir qué veremos en la tele, resolver problemas de física cuántica, comprar un abrigo…), pero concentrar todos nuestros esfuerzos en torno a una solución para un problema (o varios a la vez) y que, además, ésta resulte bella y armónica, es decir estética, y sea a ser posible la más económica, es lo que a los arquitectos más parece admirar de nuestro trabajo. Y es su razón de ser</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-02-pantalla.pdf" length="1200000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-02-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-02-pantalla.pdf</guid>
+			<pubDate>Tue, 03 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, computación, tecnología, algoritmos, ensayo </itunes:keywords>
+		</item>
+		<item>
+			<title>Fascículo 01 - Hardspace, softspace: arquitectura de código abierto</title>
+			<itunes:author>Javier Burón</itunes:author>
+			<description>Mucho se ha escrito ya sobre la relación entre la arquitectura y el cine, el medio de expresión más característico del siglo XX y actualmente sumido en una profunda crisis comercial y temática. Muchos expertos proclaman que esta crisis es un signo claro de la consolidación del videojuego como la primera forma de expresión totalmente propia del siglo XXI. Quizás ya es hora de hablar de arquitectura y videojuego…
+			<p><img border="0" width="300" src="http://www.archfarm.org/fasciculos/Archfarm01es.png" /></p>
+			</description>
+			<itunes:subtitle>Mucho se ha escrito ya sobre la relación entre la arquitectura y el cine, el medio de expresión más característico del siglo XX y actualmente sumido en una profunda crisis comercial y temática. Muchos expertos proclaman que esta crisis es un signo claro de la consolidación del videojuego como la primera forma de expresión totalmente propia del siglo XXI. Quizás ya es hora de hablar de arquitectura y videojuego…</itunes:subtitle>
+			<itunes:summary>Mucho se ha escrito ya sobre la relación entre la arquitectura y el cine, el medio de expresión más característico del siglo XX y actualmente sumido en una profunda crisis comercial y temática. Muchos expertos proclaman que esta crisis es un signo claro de la consolidación del videojuego como la primera forma de expresión totalmente propia del siglo XXI. Quizás ya es hora de hablar de arquitectura y videojuego…</itunes:summary>
+			<enclosure type="application/pdf" url="http://www.archfarm.org/fasciculos/Archfarm-01-pantalla.pdf" length="800000" />
+			<link>http://www.archfarm.org/fasciculos/Archfarm-01-papel.zip</link>
+			<guid>http://www.archfarm.org/fasciculos/Archfarm-01-pantalla.pdf</guid>
+			<pubDate>Tue, 02 Jan 2005 18:48:43 +0000</pubDate>
+			<category>Podcasting, Design, Visual Arts</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>00:00:00</itunes:duration>
+			<itunes:keywords>arquitectura, videojuegos, tecnología, diseño, ensayo</itunes:keywords>
+		</item>
+
+	</channel>
+</rss>
